@@ -1,0 +1,56 @@
+body {
+    background-color: red;
+}
+
+.ingredients {
+    border: 1px solid yellow;
+    width: 250px;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.koostisosad-table{
+    border: 1px solid black;
+    margin: 0 auto;
+    color: white;
+    font-family: 'Anton', sans-serif;
+
+}
+
+.valmistamine {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    color: yellow;
+    font-family: 'Dancing Script', cursive;
+
+}
+
+.pealkiri {
+    color: blue;
+    width: 50%;
+    padding-left: 550px;
+}
+
+.pasta{
+    padding-left: 470px;
+    width: 300px;
+    padding-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
